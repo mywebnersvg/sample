@@ -1,1 +1,2 @@
-# sample
+# WristnNeck
+Prottotype for WristnNeck
